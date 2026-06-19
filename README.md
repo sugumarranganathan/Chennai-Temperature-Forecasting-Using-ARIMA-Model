@@ -1,5 +1,7 @@
 # Chennai Temperature Forecasting Using ARIMA Model
 
+https://colab.research.google.com/drive/1HXuGRVpBGDqTrEZTF9yPSyGerm5n3QgD
+
 ## Project Overview
 
 This project focuses on forecasting Chennai's average temperature using the ARIMA (AutoRegressive Integrated Moving Average) model. The dataset was extracted from the Indian Climate Dataset (2024–2025), and time series forecasting techniques were applied to predict future temperature values.
